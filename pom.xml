@@ -160,7 +160,7 @@
             <resourceGroup>spring-petclinic</resourceGroup>
             <appName>jdubois-petclinic</appName>
             <region>westeurope</region>
-            <pricingTier>P1V2</pricingTier>
+            <pricingTier>B1</pricingTier>
             <runtime>
               <os>linux</os>
               <javaVersion>java11</javaVersion>
